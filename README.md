@@ -68,12 +68,12 @@ Press 'c' to clear the canvas
 
 Press 'q' to exit
 
-📡 Hardware Compatibility
-Device	Status :-
- Laptop/Desktop	✅ Fully supported
- Raspberry Pi (3B+)	✅ Tested with webcam
- Jetson Nano	🟡 Experimental
- Android via OTG	🔴 Not supported yet
+📡 Hardware Compatibility  
+Device	Status :-  
+ Laptop/Desktop	    ✅ Fully supported  
+ Raspberry Pi (3B+)	✅ Tested with webcam  
+ Jetson Nano	       🟡 Experimental  
+ Android via OTG	   🔴 Not supported yet  
 
 🛠️ Future Scope
 ⫸ Add hand gesture-based controls
