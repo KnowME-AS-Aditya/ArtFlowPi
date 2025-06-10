@@ -16,6 +16,7 @@ It uses:
 - 🎥 OpenCV for webcam & canvas operations
 - 🎨 Custom GUI with color palette & eraser
 - 🍓 **Raspberry Pi support** for edge-level AI drawing
+- 📝 [IEEE Xplore](https://ieeexplore.ieee.org/document/10094385) for references
 
 ---
 
@@ -68,22 +69,22 @@ Press 'c' to clear the canvas
 Press 'q' to exit
 
 📡 Hardware Compatibility
-Device	Status
-Laptop/Desktop	✅ Fully supported
-Raspberry Pi (3B+)	✅ Tested with webcam
-Jetson Nano	🟡 Experimental
-Android via OTG	🔴 Not supported yet
+Device	Status :-
+ Laptop/Desktop	✅ Fully supported
+ Raspberry Pi (3B+)	✅ Tested with webcam
+ Jetson Nano	🟡 Experimental
+ Android via OTG	🔴 Not supported yet
 
 🛠️ Future Scope
-Add hand gesture-based controls
+⫸ Add hand gesture-based controls
 
-Save canvas output as image
+⫸ Save canvas output as image
 
-Add brush size and shape options
+⫸ Add brush size and shape options
 
-Use TFLite for faster Pi inference
+⫸ Use TFLite for faster Pi inference
 
-Web version with Flask/Gradio
+⫸ Web version with Flask/Gradio
 
 🙌 Credits
 Developed with 💙 by Aditya Ranjan Sahoo
