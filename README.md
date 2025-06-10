@@ -75,7 +75,7 @@ Device	Status :-
  Jetson Nano	       🟡 Experimental  
  Android via OTG	   🔴 Not supported yet  
 
-🛠️ Future Scope
+🛠️ Future Scope  
 ⫸ Add hand gesture-based controls
 
 ⫸ Save canvas output as image
