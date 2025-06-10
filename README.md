@@ -24,7 +24,7 @@ It uses:
 
 | 👇 Live Drawing Feed | 🎯 Canvas Output |
 |----------------------|------------------|
-| ![Image1](sample_images/Digital Art Creation Setup.png) | ![Image2](./canvas_sample.png) |
+| ![Image1](./sample_images/Digital Art Creation Setup.png) | ![Image2](./canvas_sample.png) |
 
 > 🔁 Replace with actual GIF/screenshot after you record using ShareX or ScreenToGif.
 
