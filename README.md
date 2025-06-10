@@ -86,8 +86,8 @@ Device	Status :-
 
 ⫸ Web version with Flask/Gradio
 
-🙌 Credits
-Developed with 💙 by Aditya Ranjan Sahoo
+🙌 Credits:  
+Developed with 💙 by [Aditya Ranjan Sahoo](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259/)
 
 
 📜 License
