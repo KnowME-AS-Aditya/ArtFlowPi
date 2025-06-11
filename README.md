@@ -24,7 +24,7 @@ It uses:
 
 | 👇 Live Drawing Feed | 🎯 Canvas Output |
 |----------------------|------------------|
-| ![Image1](https://github.com/KnowME-AS-Aditya/ArtFlowPi/blob/main/sample_images/Digital%20Art%20Creation%20Setup.png) | ![Image2](./canvas_sample.png) |
+| ![Image1](https://github.com/KnowME-AS-Aditya/ArtFlowPi/blob/main/sample_images/Digital%20Art%20Creation%20Setup.png) | ![Image2](sample_images/pi_demo.jpg) |
 
 > 🔁 Replace with actual GIF/screenshot after you record using ShareX or ScreenToGif.
 
