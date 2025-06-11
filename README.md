@@ -84,7 +84,14 @@ Device	Status :-
 
 ⫸ Use TFLite for faster Pi inference
 
-⫸ Web version with Flask/Gradio
+⫸ Web version with Flask/Gradio  
+
+## Final Notes
+The Virtual Painter Application serves as the focal point of this endeavor, harnessing the power of AI algorithms to simulate the artistic process. By analyzing input images or user prompts, the application generates original artworks, imbued with stylistic elements inspired by renowned artists or artistic movements.  								    
+By integrating this AI-driven painting tool onto the Raspberry Pi platform, we aim to democratize access to artistic expression and foster creativity among enthusiasts, hobbyists, and professionals alike.   	   
+The compact size, low cost, and computational capabilities of the Raspberry Pi make it an ideal vehicle for deploying AI applications, enabling users to explore the boundaries of art and technology in a portable and accessible manner.  							         
+Throughout this exploration, we will examine the underlying AI models powering the Virtual Painter Application, the technical considerations involved in integrating it with the Raspberry Pi, and the potential implications for the future of art and technology.![image](https://github.com/user-attachments/assets/01056314-9b64-4a34-b050-e48fca5dc5fd)
+
 
 🙌 Credits:  
 Developed with 💙 by [Aditya Ranjan Sahoo](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259/)
@@ -92,5 +99,5 @@ Developed with 💙 by [Aditya Ranjan Sahoo](https://www.linkedin.com/in/aditya-
 
 📜 License
 This project is licensed under the Apache 2.0 License.
-See the LICENSE file for details.
+See the [LICENSE](LICENSE) file for details.
 
