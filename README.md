@@ -95,7 +95,8 @@ Throughout this exploration, we will examine the underlying AI models powering t
 
 
 🙌 Credits:  
-Developed with 💙 by [Aditya Ranjan Sahoo](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259/)
+Developed with 💙 by [Aditya Ranjan Sahoo](https://www.linkedin.com/in/aditya-ranjan-sahoo-277722259/) |  Primary codeDev; ML trainer  
+                      [Sudhindra Roy](https://www.linkedin.com/in/sudhindra-roy/) | Tester; Project developer
 
 
 📜 License
